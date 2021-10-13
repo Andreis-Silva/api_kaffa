@@ -1,16 +1,12 @@
-# consumo_servico_avancado
+# Projeto Kaffa API
 
-A new Flutter application.
+Ultilizei Flutter para a criação do App e trabalhar com Api proposta.
 
-## Getting Started
+## Imagem do APP
 
-This project is a starting point for a Flutter application.
+![](https://github.com/Andreis-Silva/api_kaffa/blob/master/Capturar.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+##Link do video 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Link video](https://drive.google.com/file/d/1fa9X_frsVZDyB5qownsxS5Z8eERaG2Sp/view?usp=sharing)
